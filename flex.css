@@ -18,12 +18,11 @@ body {
 .container > * {
     flex-grow: 1;
     border: 2px dashed blue; 
-    background-color: red; 
+    background-color:lightblue; 
     font-size: 10rem;
     align-items: center;
     justify-content: left;
     display: flex;
-    color: purple; 
     margin-bottom: 0.8%;
 }
 
